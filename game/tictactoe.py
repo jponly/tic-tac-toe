@@ -1,0 +1,2 @@
+ms = "DOOKIE"
+print(ms)
